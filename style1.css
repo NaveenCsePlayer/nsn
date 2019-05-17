@@ -1,0 +1,27 @@
+body{
+  margin :0;
+}
+
+div{
+  background-color:#E4F9F5;
+}
+ h1{
+   margin-top: 0px;
+ }
+
+ 
+
+ .middle{
+   height:200px;
+   width:200px;
+
+   background-color:blue;
+
+ }
+
+ .bottom{
+   height:200px;
+   width:200px;
+
+   background-color:red;
+ }
